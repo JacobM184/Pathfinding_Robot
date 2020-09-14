@@ -1,0 +1,14 @@
+﻿  data.cpp
+  fungYangCs301SimMain.cpp
+D:\cs301\RobotSim\robotsim\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(62,25): warning C4305: '=': truncation from 'double' to 'float'
+D:\cs301\RobotSim\robotsim\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(64,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\cs301\RobotSim\robotsim\FungYangCs301PacmanUseLib\fungYangCs301SimMain.cpp(77,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+fungYangCs301SimMain.obj : error LNK2019: unresolved external symbol "int __cdecl FungGlAppMainFuction(int,char * *)" (?FungGlAppMainFuction@@YAHHPEAPEAD@Z) referenced in function main
+fungYangCs301SimMain.obj : error LNK2019: unresolved external symbol "int __cdecl coordToCellX(float)" (?coordToCellX@@YAHM@Z) referenced in function "int __cdecl virtualCarUpdate(void)" (?virtualCarUpdate@@YAHXZ)
+fungYangCs301SimMain.obj : error LNK2019: unresolved external symbol "int __cdecl coordToCellY(float)" (?coordToCellY@@YAHM@Z) referenced in function "int __cdecl virtualCarUpdate(void)" (?virtualCarUpdate@@YAHXZ)
+fungYangCs301SimMain.obj : error LNK2019: unresolved external symbol "int __cdecl rand_nextInt(int)" (?rand_nextInt@@YAHH@Z) referenced in function "int __cdecl virtualCarUpdate(void)" (?virtualCarUpdate@@YAHXZ)
+fungYangCs301SimMain.obj : error LNK2019: unresolved external symbol "int __cdecl rand_nextInt(int,int)" (?rand_nextInt@@YAHHH@Z) referenced in function "int __cdecl virtualCarUpdate(void)" (?virtualCarUpdate@@YAHXZ)
+fungYangCs301SimMain.obj : error LNK2019: unresolved external symbol "public: void __cdecl highPerformanceTimer::resetTimer(void)" (?resetTimer@highPerformanceTimer@@QEAAXXZ) referenced in function "int __cdecl virtualCarUpdate(void)" (?virtualCarUpdate@@YAHXZ)
+fungYangCs301SimMain.obj : error LNK2019: unresolved external symbol "public: double __cdecl highPerformanceTimer::getTimer(void)" (?getTimer@highPerformanceTimer@@QEAANXZ) referenced in function "int __cdecl virtualCarUpdate(void)" (?virtualCarUpdate@@YAHXZ)
+D:\cs301\RobotSim\robotsim\x64\Debug\FungYangCs301PacmanUseLib.exe : fatal error LNK1120: 7 unresolved externals
