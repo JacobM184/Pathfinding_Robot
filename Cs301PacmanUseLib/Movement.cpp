@@ -1,7 +1,6 @@
 #include "Movement.h"
 #include "global.h"
 
-// Sup bro
 
 void setVirtualCarSpeed(float linearSpeed, float angularSpeed)
 {
@@ -109,6 +108,9 @@ void singleLine() {
 		straight = 0;
 	}
 
+	if (!intersection) {
+
+	}
 	//turn left
 	if (activatedSensorCountL > 0.0) {
 		setVirtualCarSpeed(virtualCarLinearSpeed_seed, virtualCarAngularSpeed_seed * tiltSumL);
