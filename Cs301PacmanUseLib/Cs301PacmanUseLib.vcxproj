@@ -132,12 +132,18 @@
   <ItemGroup>
     <ClInclude Include="data.h" />
     <ClInclude Include="fung.h" />
+    <ClInclude Include="global.h" />
     <ClInclude Include="highPerformanceTimer.h" />
     <ClInclude Include="mainFungGLAppEngin.h" />
+    <ClInclude Include="Movement.h" />
     <ClInclude Include="random.h" />
+    <ClInclude Include="Sensors.h" />
+    <ClInclude Include="SensorState.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="data.cpp" />
+    <ClCompile Include="Movement.cpp" />
+    <ClCompile Include="Sensors.cpp" />
     <ClCompile Include="SimMain.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

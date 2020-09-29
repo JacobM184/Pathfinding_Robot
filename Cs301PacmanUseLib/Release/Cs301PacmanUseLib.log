@@ -1,23 +1,29 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (FungYangCs301PacmanUseLib.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  data.cpp
+  Movement.cpp
+C:\Users\Biggie Cheese\source\repos\Pathfinding_Robot\Cs301PacmanUseLib\Movement.cpp(30,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Biggie Cheese\source\repos\Pathfinding_Robot\Cs301PacmanUseLib\Movement.cpp(70,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sensors.cpp
+C:\Users\Biggie Cheese\source\repos\Pathfinding_Robot\Cs301PacmanUseLib\Sensors.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Biggie Cheese\source\repos\Pathfinding_Robot\Cs301PacmanUseLib\Sensors.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
   SimMain.cpp
-C:\Users\Jacob\source\repos\JacobM184\Pathfinding_Robot\Cs301PacmanUseLib\SimMain.cpp(71,25): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Jacob\source\repos\JacobM184\Pathfinding_Robot\Cs301PacmanUseLib\SimMain.cpp(72,34): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Jacob\source\repos\JacobM184\Pathfinding_Robot\Cs301PacmanUseLib\SimMain.cpp(115,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Jacob\source\repos\JacobM184\Pathfinding_Robot\Cs301PacmanUseLib\SimMain.cpp(155,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Biggie Cheese\source\repos\Pathfinding_Robot\Cs301PacmanUseLib\SimMain.cpp(73,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Biggie Cheese\source\repos\Pathfinding_Robot\Cs301PacmanUseLib\SimMain.cpp(76,34): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Biggie Cheese\source\repos\Pathfinding_Robot\Cs301PacmanUseLib\SimMain.cpp(101,20): warning C4018: '<': signed/unsigned mismatch
   Generating code
-  10 of 928 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    3 functions had inline decision re-evaluated but remain unchanged
+  370 of 965 functions (38.3%) were compiled, the rest were copied from previous compilation.
+    40 functions were new in current compilation
+    87 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-Cs301PacmenRobot.lib(gameManager.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(gameManager.obj)' or at 'C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
-Cs301PacmenRobot.lib(highPerformanceTimer.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(highPerformanceTimer.obj)' or at 'C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
-Cs301PacmenRobot.lib(mainFungGLAppEngin.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(mainFungGLAppEngin.obj)' or at 'C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
-Cs301PacmenRobot.lib(Geometry.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(Geometry.obj)' or at 'C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
-Cs301PacmenRobot.lib(my_GL_Draw_Funcs.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(my_GL_Draw_Funcs.obj)' or at 'C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
-Cs301PacmenRobot.lib(mazeGen.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(mazeGen.obj)' or at 'C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
-Cs301PacmenRobot.lib(AStarManager.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(AStarManager.obj)' or at 'C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
-Cs301PacmenRobot.lib(texture.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(texture.obj)' or at 'C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
-Cs301PacmenRobot.lib(Lighting.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(Lighting.obj)' or at 'C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
-Cs301PacmenRobot.lib(Utilities.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(Utilities.obj)' or at 'C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
-Cs301PacmenRobot.lib(PathFinder.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(PathFinder.obj)' or at 'C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
-  Cs301PacmanUseLib.vcxproj -> C:\Users\Jacob\Source\Repos\JacobM184\Pathfinding_Robot\Release\Cs301PacmanUseLib.exe
+Cs301PacmenRobot.lib(gameManager.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(gameManager.obj)' or at 'C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+Cs301PacmenRobot.lib(mainFungGLAppEngin.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(mainFungGLAppEngin.obj)' or at 'C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+Cs301PacmenRobot.lib(Geometry.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(Geometry.obj)' or at 'C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+Cs301PacmenRobot.lib(my_GL_Draw_Funcs.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(my_GL_Draw_Funcs.obj)' or at 'C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+Cs301PacmenRobot.lib(mazeGen.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(mazeGen.obj)' or at 'C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+Cs301PacmenRobot.lib(highPerformanceTimer.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(highPerformanceTimer.obj)' or at 'C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+Cs301PacmenRobot.lib(AStarManager.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(AStarManager.obj)' or at 'C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+Cs301PacmenRobot.lib(texture.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(texture.obj)' or at 'C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+Cs301PacmenRobot.lib(Lighting.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(Lighting.obj)' or at 'C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+Cs301PacmenRobot.lib(Utilities.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(Utilities.obj)' or at 'C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+Cs301PacmenRobot.lib(PathFinder.obj) : warning LNK4099: PDB 'FungYangCs301PacmenRobotSimGameLib.pdb' was not found with 'Cs301PacmenRobot.lib(PathFinder.obj)' or at 'C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\FungYangCs301PacmenRobotSimGameLib.pdb'; linking object as if no debug info
+  Cs301PacmanUseLib.vcxproj -> C:\Users\Biggie Cheese\Source\Repos\Pathfinding_Robot\Release\Cs301PacmanUseLib.exe
