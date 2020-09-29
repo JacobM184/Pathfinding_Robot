@@ -1,7 +1,7 @@
-2020-9-29-21-42-46 : foodHitCount = 1 out of 129 ;  foodHitCellPos = (8 , 7) ; idxToErase = 62 ; superFoodHitCount = 0 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
-2020-9-29-21-42-46 : foodHitCount = 2 out of 129 ;  foodHitCellPos = (9 , 7) ; idxToErase = 62 ; superFoodHitCount = 0 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
-2020-9-29-21-42-52 : foodHitCount = 3 out of 129 ;  foodHitCellPos = (9 , 5) ; idxToErase = 46 ; superFoodHitCount = 0 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
-2020-9-29-21-42-53 : foodHitCount = 4 out of 129 ;  foodHitCellPos = (10 , 5) ; idxToErase = 46 ; superFoodHitCount = 0 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
-2020-9-29-21-42-54 : foodHitCount = 5 out of 129 ;  foodHitCellPos = (11 , 5) ; idxToErase = 46 ; superFoodHitCount = 0 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
-2020-9-29-21-42-59 : foodHitCount = 6 out of 129 ;  foodHitCellPos = (8 , 5) ; idxToErase = 45 ; superFoodHitCount = 0 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
-2020-9-29-21-43-15 : foodHitCount = 7 out of 129 ;  foodHitCellPos = (11 , 4) ; idxToErase = 35 ; superFoodHitCount = 0 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-9-29-22-23-44 : foodHitCount = 1 out of 129 ;  foodHitCellPos = (8 , 7) ; idxToErase = 62 ; superFoodHitCount = 0 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-9-29-22-23-45 : foodHitCount = 2 out of 129 ;  foodHitCellPos = (9 , 7) ; idxToErase = 62 ; superFoodHitCount = 0 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-9-29-22-23-45 : foodHitCount = 3 out of 129 ;  foodHitCellPos = (10 , 7) ; idxToErase = 62 ; superFoodHitCount = 0 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-9-29-22-23-46 : foodHitCount = 4 out of 129 ;  foodHitCellPos = (11 , 7) ; idxToErase = 62 ; superFoodHitCount = 0 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-9-29-22-23-46 : foodHitCount = 4 out of 129 ;  foodHitCellPos = (11 , 7) ; idxToErase = 62 ; superFoodHitCount = 1 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-9-29-22-23-48 : foodHitCount = 5 out of 129 ;  foodHitCellPos = (11 , 8) ; idxToErase = 69 ; superFoodHitCount = 1 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
+2020-9-29-22-23-49 : foodHitCount = 6 out of 129 ;  foodHitCellPos = (11 , 9) ; idxToErase = 79 ; superFoodHitCount = 1 out of 5 ; ghostHitCount = 0 ; ghostEatenCount = 0 ; 
